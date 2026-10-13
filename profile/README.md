@@ -6,5 +6,5 @@
   <h1>Nexilis</h1>
 
   <p>Create video games agentically.</p>
-  <p>Your programming language. Your engine. Your server. Your choice.</p>
+  <p>Your programming language. Your game engine. Your server. Your choice.</p>
 </div>
